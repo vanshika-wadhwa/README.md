@@ -1,90 +1,98 @@
-<h2 align="left">Hi 👋! My name is Vanshika and I'm a Computer Science student, from India</h2>
+# Hello there! I'm **Vanshika** 👋
 
-###
+![Hello Banner](https://imgs.search.brave.com/AxgNGAxq-v_2WckXNG64ouFgOlQZq-Y2Q2rxs_BeDzQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9jdXRl/LWNhcnRvb24tZ2ly/bC1sb25nLXJlZC1o/YWlyLXdvcmtpbmct/aGVyLWNvbXB1dGVy/LWhlci1kZXNrLWhl/ci1ob21lLW9mZmlj/ZS1jdXRlLWNhcnRv/b24tZ2lybC13b3Jr/aW5nLTMzNTQ1MTY5/NC5qcGc) <!-- Replace this with a fun image/banner of your choice -->
+
+Welcome to my GitHub profile! I'm a **passionate student** and a **software developer** with a strong curiosity to learn and explore the world of coding. Let's build something **amazing** together! 🚀
+
+---
+
+## 🚀 **About Me**
+
+- 🎓 I'm currently a **student** working on **React**, **Node.js**, **Machine Learning**, and other fun projects!
+- 🧑‍💻 I love exploring both **front-end** and **back-end** technologies, and I’m always up for a challenge.
+- 🌱 Learning new things daily – I love **coding** and solving real-world problems with tech.
+- 🎯 My goal is to **contribute to open-source**, build fun projects, and keep growing as a developer.
+
+---
+
+## 🛠️ **Skills & Technologies**
+
+### **Languages** 🌍
+- **C++** | **Python** | **JavaScript** | **HTML** | **LaTeX**
+
+### **Frameworks & Tools I Use** 🔧
+- **React** | **Next.js** | **Node.js** | **Express.js** | **Flask** | **MongoDB** | **TailwindCSS** | **Three.js** | **TailwindCss**
+
+### **Data Science & Visualization** 📊
+- **NumPy** | **Pandas** | **Matplotlib** | **Seaborn**
+
+### **Version Control & Platforms** 🔄
+- **Git** | **GitHub** | **Linux**
+
+---
+
+## 🔥 **Projects I'm Proud Of**
+
+Here are some **cool projects** I’ve built and contributed to:
+
+- 💻 [**Coding Visualization**](https://github.com/vanshika-wadhwa/coding_visualization) – An interactive platform designed to help users understand data structure and algorithm concepts through visualizations. The platform provides step-by-step demonstrations of various algorithms, including sorting and searching, while analyzing their time and space complexities. It also includes a coding playground for hands-on practice and educational content like tutorials and code snippets.
+- 💻 [**Diwaili Sales Analysis**](https://github.com/vanshika-wadhwa/Diwali-Sales-Analysis) –Analyzed sales data of sweets during Diwali to identify trends and visualize insights.
+Helps local businesses make data-driven decisions by understanding peak sales times and customer preferences.
+
+---
+
+## 📈 **GitHub Stats**
+
+![Vanshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshika-wadhwa&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+---
+
+
+## 📬 **Get in Touch**
+
+Want to chat about tech, collaborate on a project, or just say **hi**? You can reach me here:
+
+- 📧 **Email**: [vanshikawadhwa20@gmail.com](mailto:vanshikawadhwa20@gmail.com)
+- 💼 **LinkedIn**: [vanshika_wadhwa](https://www.linkedin.com/in/vanshika-wadhwa-4877832a2/)
+- 🐦 **Twitter**: [vanshika_wadhwa](https://x.com/Vanshika42001)
+- 📱 **Instagram**: [vanshika_wadhwa](https://www.instagram.com/1shikawadhwa)
+- 💻 **Portfolio**: [vanshika-portfolio.com](https://portfolio-tau-eight-45.vercel.app/)
+
+---
+
+## 🎯 **My Fun Facts**
+
+- 🎮 **Coding is my favorite game**—I love solving problems and building new things.
+- 💡 **Currently Learning**: Machine Learning, **AI**, and **Web Development**.
+- 🧑‍🎓 Always growing, always curious!
+
+---
+
+## ⭐ **Support My Work**
+
+If you like what I do, you can show some love by **starring** my repos, **forking** them, or contributing to my projects! Together, we can create amazing things! 💥
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshika-wadhwa&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika-wadhwa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+    <a href="https://github.com/vanshika-wadhwa">
+        <img src="https://img.shields.io/github/followers/vanshika-wadhwa?style=social" alt="Follow me on GitHub" />
+    </a>
+    <a href="https://github.com/vanshika-wadhwa?tab=repositories">
+        <img src="https://img.shields.io/github/stars/vanshika-wadhwa?style=social" alt="Star my GitHub projects" />
+    </a>
+    <a href="https://x.com/Vanshika42001">
+        <img src="https://img.shields.io/twitter/follow/vanshika_wadhwa?style=social" alt="Follow me on Twitter" />
+    </a>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🔗 **More Links**
 
-###
+- 🖥️ [GeekForGeeks](https://www.geeksforgeeks.org/user/vwadhwqhm0/)
+- 🖥️ [Leetcode](https://leetcode.com/u/Vanshika_wadhwa/)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="expressjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"  height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  height="30" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" height="30" alt="threejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="30" alt="flask logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"  height="30" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"  height="30" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="30" alt="latex logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  height="30" alt="linux logo" />
-  <img width="12" />
-</div>
+---
 
-###
-
-<div align="left">
-  <a href="mailto:vanshikawadhwa20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a> 
-  <a href="https://instagram.com/1shikawadhwa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://linkedin.com/in/vanshika-wadhwa-4877832a2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vanshika-wadhwa/vanshika-wadhwa/output/snake.svg" alt="Snake animation" />
-
-###
-[![](https://visitcount.itsvg.in/api?id=vanshika-wadhwa&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+⭐️ **Thanks for visiting my GitHub! Let’s connect and build something amazing!** ⭐️
