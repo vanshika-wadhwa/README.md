@@ -1,7 +1,8 @@
 # Hello there! I'm **Vanshika** 👋
 
-![Hello Banner](https://imgs.search.brave.com/AxgNGAxq-v_2WckXNG64ouFgOlQZq-Y2Q2rxs_BeDzQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9jdXRl/LWNhcnRvb24tZ2ly/bC1sb25nLXJlZC1o/YWlyLXdvcmtpbmct/aGVyLWNvbXB1dGVy/LWhlci1kZXNrLWhl/ci1ob21lLW9mZmlj/ZS1jdXRlLWNhcnRv/b24tZ2lybC13b3Jr/aW5nLTMzNTQ1MTY5/NC5qcGc) <!-- Replace this with a fun image/banner of your choice -->
-
+<!-- ![Hello Banner](https://imgs.search.brave.com/AxgNGAxq-v_2WckXNG64ouFgOlQZq-Y2Q2rxs_BeDzQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9jdXRl/LWNhcnRvb24tZ2ly/bC1sb25nLXJlZC1o/YWlyLXdvcmtpbmct/aGVyLWNvbXB1dGVy/LWhlci1kZXNrLWhl/ci1ob21lLW9mZmlj/ZS1jdXRlLWNhcnRv/b24tZ2lybC13b3Jr/aW5nLTMzNTQ1MTY5/NC5qcGc)  Replace this with a fun image/banner of your choice -->
+![Hello Banner](https://github.com/vanshika-wadhwa/vanshika-wadhwa/blob/main/h1.png)
+<br>
 Welcome to my GitHub profile! I'm a **passionate student** and a **software developer** with a strong curiosity to learn and explore the world of coding. Let's build something **amazing** together! 🚀
 
 ---
