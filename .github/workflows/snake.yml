@@ -24,7 +24,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.vanshika-wadhwa }} # Dynamic owner name
+          github_user_name: ${{ github.repository_owner }} # Dynamic owner name
           outputs: dist/snake.svg?palette=github-dark # Save snake.svg in the 'dist' directory
 
       - name: Push Snake Animation to the Output Branch
