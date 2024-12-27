@@ -1,11 +1,10 @@
-# README.md
 <h2 align="left">Hi 👋! My name is Vanshika and I'm a Computer Science student, from India</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshika-wadhwa&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika-wadhwa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshika-wadhwa&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika-wadhwa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -89,4 +88,3 @@
 
 ###
 [![](https://visitcount.itsvg.in/api?id=vanshika-wadhwa&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
