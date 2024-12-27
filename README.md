@@ -85,7 +85,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vanshika-wadhwa/vanshikawadhwa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vanshika-wadhwa/vanshika-wadhwa/output/snake.svg" alt="Snake animation" />
 
 ###
 [![](https://visitcount.itsvg.in/api?id=vanshika-wadhwa&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
