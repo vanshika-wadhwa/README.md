@@ -9,11 +9,10 @@ Welcome to my GitHub profile! I'm a **passionate student** and a **software deve
 
 ## 🚀 **About Me**
 
-- 🎓 I'm currently a **student** working on **React**, **Node.js**, **Machine Learning**, and other fun projects!
-- 🧑‍💻 I love exploring both **front-end** and **back-end** technologies, and I’m always up for a challenge.
-- 🌱 Learning new things daily – I love **coding** and solving real-world problems with tech.
-- 🎯 My goal is to **contribute to open-source**, build fun projects, and keep growing as a developer.
-
+- 🎓 I'm currently a student working on React, Node.js, Machine Learning, and other fun projects!
+- 🧑‍💻 Interested in both front-end and back-end technologies and enjoys taking on challenges.  
+- 🌱 Always learning and loves coding to solve real-world problems with technology.  
+- 🎯 Aims to contribute to open-source, build cool projects, and keep growing as a developer.
 ---
 
 ## 🛠️ **Skills & Technologies**
